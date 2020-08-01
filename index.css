@@ -18,6 +18,10 @@
         background-color: #7CC1FA;
 
     }
+    .twitter-large{
+        grid-column: 2/4;
+        grid-row: 1/6;
+    }
 
     .twitter-text{
         grid-column: 2/4;
